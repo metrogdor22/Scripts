@@ -1,0 +1,174 @@
+DVBB-01
+DeltaV Primary = 10.4.0.158
+DeltaV Secondary = 10.8.0.158
+Plant LAN = 172.20.0.175
+
+
+DVBB-02
+DeltaV Primary = 10.4.0.162
+DeltaV Secondary = 10.8.0.162
+Plant LAN = 172.20.0.176
+
+
+DVBB-03
+DeltaV Primary = 10.4.0.182
+DeltaV Secondary = 10.8.0.182
+Plant LAN = 172.20.0.177
+
+
+DVBB-04
+DeltaV Primary = 10.4.0.190
+DeltaV Secondary = 10.8.0.190
+Plant LAN = 172.20.0.178
+
+
+DVBB-05
+DeltaV Primary = 10.4.0.234
+DeltaV Secondary = 10.8.0.234
+Plant LAN = 172.20.0.179
+
+
+DVBB-06
+DeltaV Primary = 10.4.0.154
+DeltaV Secondary = 10.8.0.154
+Plant LAN = 172.20.0.180
+
+
+DVBB-07
+DeltaV Primary = 10.4.0.238
+DeltaV Secondary = 10.8.0.238
+Plant LAN = 172.20.0.181
+
+
+DVBB-08
+DeltaV Primary = 10.4.0.242
+DeltaV Secondary = 10.8.0.242
+Plant LAN = 172.20.0.182
+
+
+DVBB-09
+DeltaV Primary = 10.4.0.246
+DeltaV Secondary = 10.8.0.246
+Plant LAN = 172.20.0.183
+
+
+DVBB-10
+DeltaV Primary = 10.4.0.250
+DeltaV Secondary = 10.8.0.250
+Plant LAN = 172.20.0.184
+
+
+DVOCC-1
+DeltaV Secondary = 10.8.1.10
+Plant LAN = 172.20.0.248
+DeltaV Primary = 10.4.1.10
+
+
+DVOCC-2
+DeltaV Secondary = 10.8.1.6
+Plant LAN = 172.20.0.249
+DeltaV Primary = 10.4.1.6
+
+
+DVOCC-3
+DeltaV Secondary = 10.8.1.2
+Plant LAN = 172.20.0.250
+DeltaV Primary = 10.4.1.2
+
+
+DVOCC-4
+DeltaV Secondary = 10.8.1.98
+Plant LAN = 172.20.0.247
+DeltaV Primary = 10.4.1.98
+
+
+DVPM-30
+DeltaV Secondary = 10.8.1.102
+Plant LAN = 172.20.0.129
+DeltaV Primary = 10.4.1.102
+
+
+DVPM-31
+DeltaV Secondary = 10.8.0.74
+Plant LAN = 172.20.0.130
+DeltaV Primary = 10.4.0.74
+
+
+DVPM-42
+DeltaV Secondary = 10.8.0.94
+Plant LAN = 172.20.0.135
+DeltaV Primary = 10.4.0.94
+
+
+DVPM-50
+DeltaV Secondary = 10.8.0.214
+Plant LAN = 172.20.0.157
+DeltaV Primary = 10.4.0.214
+
+
+DVPM-51
+DeltaV Secondary = 10.8.1.22
+Plant LAN = 172.20.0.158
+DeltaV Primary = 10.4.1.22
+
+
+DVPM-52
+DeltaV Secondary = 10.8.0.222
+Plant LAN = 172.20.0.159
+DeltaV Primary = 10.4.0.222
+
+
+DVPM-53
+DeltaV Secondary = 10.8.0.226
+Plant LAN = 172.20.0.160
+DeltaV Primary = 10.4.0.226
+
+
+DVPM-54
+DeltaV Secondary = 10.8.1.18
+Plant LAN = 172.20.0.161
+DeltaV Primary = 10.4.1.18
+
+
+DVPM-55
+DeltaV Secondary = 10.8.0.210
+Plant LAN = 172.20.0.162
+DeltaV Primary = 10.4.0.210
+
+
+DVPM-56
+DeltaV Secondary = 10.8.0.202
+Plant LAN = 172.20.0.163
+DeltaV Primary = 10.4.0.202
+
+
+DVPM-57
+DeltaV Secondary = 10.8.0.206
+Plant LAN = 172.20.0.164
+DeltaV Primary = 10.4.0.206
+
+
+MS150APPSTAT1
+Plant LAN = 172.20.3.62
+DeltaV Primary = 10.4.0.10
+DeltaV Secondary = 10.8.0.10
+
+
+MS150APPSTAT2
+Plant LAN = 172.20.3.60
+DeltaV Primary = 10.4.0.186
+DeltaV Secondary = 10.8.0.186
+
+
+MS150DVBASE1
+Plant LAN = 172.20.3.63
+DeltaV Primary = 10.4.0.34
+DeltaV Secondary = 10.8.0.34
+
+
+MS150PROPLUS1
+Plant LAN = 172.20.3.61
+DeltaV Primary = 10.4.0.6
+DeltaV Secondary = 10.8.0.6
+
+

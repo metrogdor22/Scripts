@@ -1,0 +1,149 @@
+DVBB-01
+@{VolumeName=DVSys; Size(GB)=50}
+@{VolumeName=DVData; Size(GB)=341}
+@{VolumeName=; Size(GB)=0}
+
+DVBB-02
+@{VolumeName=DVSys; Size(GB)=50}
+@{VolumeName=DVData; Size(GB)=341}
+@{VolumeName=; Size(GB)=0}
+
+DVBB-03
+@{VolumeName=DVSys; Size(GB)=50}
+@{VolumeName=DVData; Size(GB)=341}
+@{VolumeName=; Size(GB)=0}
+
+DVBB-04
+@{VolumeName=DVSys; Size(GB)=54}
+@{VolumeName=DVData; Size(GB)=354}
+@{VolumeName=; Size(GB)=0}
+
+DVBB-05
+@{VolumeName=DVSys; Size(GB)=54}
+@{VolumeName=DVData; Size(GB)=354}
+@{VolumeName=; Size(GB)=0}
+
+DVBB-06
+@{VolumeName=DVSys; Size(GB)=50}
+@{VolumeName=DVData; Size(GB)=348}
+@{VolumeName=; Size(GB)=0}
+
+DVBB-07
+@{VolumeName=DVSys; Size(GB)=50}
+@{VolumeName=DVData; Size(GB)=340}
+@{VolumeName=; Size(GB)=0}
+
+DVBB-08
+@{VolumeName=DVSys; Size(GB)=50}
+@{VolumeName=DVData; Size(GB)=341}
+@{VolumeName=HOPE_IND; Size(GB)=0}
+
+DVBB-09
+@{VolumeName=DVSys; Size(GB)=54}
+@{VolumeName=DVData; Size(GB)=354}
+@{VolumeName=; Size(GB)=0}
+
+DVBB-10
+@{VolumeName=DVSys; Size(GB)=54}
+@{VolumeName=DVData; Size(GB)=353}
+@{VolumeName=; Size(GB)=0}
+
+DVOCC-1
+@{VolumeName=DVSys; Size(GB)=46}
+@{VolumeName=DVData; Size(GB)=340}
+@{VolumeName=; Size(GB)=0}
+
+DVOCC-2
+@{VolumeName=DVSys; Size(GB)=50}
+@{VolumeName=DVData; Size(GB)=353}
+@{VolumeName=; Size(GB)=0}
+
+DVOCC-3
+@{VolumeName=DVSys; Size(GB)=51}
+@{VolumeName=DVData; Size(GB)=337}
+@{VolumeName=; Size(GB)=0}
+
+DVOCC-4
+@{VolumeName=DVSys; Size(GB)=46}
+@{VolumeName=DVData; Size(GB)=335}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-30
+@{VolumeName=DVSys; Size(GB)=47}
+@{VolumeName=DVData; Size(GB)=327}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-31
+@{VolumeName=DVSys; Size(GB)=50}
+@{VolumeName=DVData; Size(GB)=328}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-42
+@{VolumeName=DVSys; Size(GB)=46}
+@{VolumeName=DVData; Size(GB)=332}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-50
+@{VolumeName=DVSYS; Size(GB)=46}
+@{VolumeName=DVDATA; Size(GB)=337}
+@{VolumeName=; Size(GB)=0}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-51
+@{VolumeName=DVSys; Size(GB)=46}
+@{VolumeName=DVData; Size(GB)=328}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-52
+@{VolumeName=DVSys; Size(GB)=47}
+@{VolumeName=DVData; Size(GB)=343}
+@{VolumeName=; Size(GB)=0}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-53
+@{VolumeName=DVSys; Size(GB)=48}
+@{VolumeName=DVData; Size(GB)=340}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-54
+@{VolumeName=DVSys; Size(GB)=48}
+@{VolumeName=DVData; Size(GB)=329}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-55
+@{VolumeName=DVSYS; Size(GB)=48}
+@{VolumeName=DVDATA; Size(GB)=335}
+@{VolumeName=; Size(GB)=0}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-56
+@{VolumeName=DVSys; Size(GB)=46}
+@{VolumeName=DVData; Size(GB)=339}
+@{VolumeName=; Size(GB)=0}
+
+DVPM-57
+@{VolumeName=DVSys; Size(GB)=47}
+@{VolumeName=DVData; Size(GB)=336}
+@{VolumeName=; Size(GB)=0}
+
+MS150APPSTAT1
+@{VolumeName=DVSys; Size(GB)=43}
+@{VolumeName=DVData; Size(GB)=1500}
+@{VolumeName=Acronis Media; Size(GB)=0}
+
+MS150APPSTAT2
+@{VolumeName=DVSys; Size(GB)=40}
+@{VolumeName=DVData; Size(GB)=1538}
+@{VolumeName=; Size(GB)=0}
+
+MS150DVBASE1
+@{VolumeName=DVSys; Size(GB)=43}
+@{VolumeName=DVData; Size(GB)=1562}
+@{VolumeName=; Size(GB)=0}
+
+MS150PROPLUS1
+@{VolumeName=DVSys; Size(GB)=26}
+@{VolumeName=DVData; Size(GB)=1455}
+@{VolumeName=; Size(GB)=0}
+@{VolumeName=CONTROLWORX; Size(GB)=114}
+
